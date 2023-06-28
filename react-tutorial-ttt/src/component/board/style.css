@@ -3,6 +3,6 @@
     clear: both;
 }
 
-.board{
-    justify-content: center;
+.game-board{
+    width: max-content;
 }
