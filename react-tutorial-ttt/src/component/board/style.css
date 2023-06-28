@@ -1,0 +1,8 @@
+.row {
+    content: '';
+    clear: both;
+}
+
+.board{
+    justify-content: center;
+}
